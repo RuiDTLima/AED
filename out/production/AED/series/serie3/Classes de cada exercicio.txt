@@ -1,0 +1,3 @@
+Exercicio 1: TreeUtils e Node
+Exercicio 2: DNACollection e TrieNode
+Exercicio 3: MST,Vertex,Edge,MinPriorityQueueHeapBased,PrecedentNode

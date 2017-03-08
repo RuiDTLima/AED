@@ -1,0 +1,8 @@
+Funcionalidade 1 - newCostumer <c> <t>
+Funcionalidade 2 - removeCostumer <k>
+Funcionalidade 3 - removeNextCostumer
+Funcionalidade 4 - getNextCostumer
+Funcionalidade 5 - changeService <k> <t>
+Funcionalidade 6 - waitingTime <k> <n>
+Funcionalidade 7 - help
+Funcionalidade 8 - close app
